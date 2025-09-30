@@ -1,3 +1,8 @@
+/*
+ * Copyright (c) 2025 Yash Kushwaha
+ * Licensed under the MIT License. See LICENSE file for details.
+ */
+
 import { createContext, useContext, useEffect, useState } from "react" 
 import axios from 'axios'
 import { useNavigate } from 'react-router-dom'

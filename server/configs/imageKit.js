@@ -1,3 +1,8 @@
+/*
+ * Copyright (c) 2025 Yash Kushwaha
+ * Licensed under the MIT License. See LICENSE file for details.
+*/
+
 import ImageKit from 'imagekit'
 
 var imagekit = new ImageKit({

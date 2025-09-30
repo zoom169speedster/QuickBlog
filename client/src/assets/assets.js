@@ -1,3 +1,8 @@
+/*
+ * Copyright (c) 2025 Yash Kushwaha
+ * Licensed under the MIT License. See LICENSE file for details.
+*/
+
 import blog_pic_1 from './blog_pic_1.png';
 import blog_pic_2 from './blog_pic_2.png';
 import blog_pic_3 from './blog_pic_3.png';

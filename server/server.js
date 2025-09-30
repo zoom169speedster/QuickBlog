@@ -1,3 +1,8 @@
+/*
+ * Copyright (c) 2025 Yash Kushwaha
+ * Licensed under the MIT License. See LICENSE file for details.
+*/
+
 import express from 'express'
 import 'dotenv/config'
 import cors from 'cors'

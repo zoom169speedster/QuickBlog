@@ -1,3 +1,8 @@
+/*
+ * Copyright (c) 2025 Yash Kushwaha
+ * Licensed under the MIT License. See LICENSE file for details.
+*/
+
 import jwt from 'jsonwebtoken'
 import Blog from '../models/Blog.js'
 import Comment from '../models/Comment.js'
