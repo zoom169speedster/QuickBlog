@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="./client/public/favicon.svg" alt="Favicon" height="20" />
-  Blog Dashboard Project
+  Blog App
 </h1>
 
 <p align="center">
@@ -27,7 +27,7 @@ It enables an admin to create and publish blogs effortlessly and allows users to
 
 ## 🔗 Live Demo
 
-[🚀 Visit Blog Dashboard Project](#)
+[🚀 Visit Blog App](https://quick-blog-ebon.vercel.app/)
 
 ---
 
